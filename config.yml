@@ -16,3 +16,10 @@ params:
   author: Num
   ShowReadingTime: true
   ShowPostNavLinks: true
+
+menu:
+    main:
+        - identifier: tags
+          name: Dreams 
+          url: tags//dreams/
+          weight: 20
